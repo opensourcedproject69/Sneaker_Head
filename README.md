@@ -1,4 +1,4 @@
-# Online-Shoe-Store
+# SneakerHead
 A Php-Sql project for final year students. 
 
 ***************************************************************
